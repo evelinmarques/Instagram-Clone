@@ -1,5 +1,4 @@
 # Instagram Clone
- Repositório dedicado a página inicial do instagram feita com CSS Flexbox.
 
 ## Sobre o projeto:
 Nesse projeto foi abordado os conceitos sobre CSS Flexbox e responsividade, recriando a página inicial do instagram.
