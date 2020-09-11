@@ -5,7 +5,7 @@
 Nesse projeto foi abordado os conceitos sobre CSS Flexbox e responsividade, recriando a página inicial do instagram.
 
 ## ✔️ Resultados visuais:
-<img src="https://user-images.githubusercontent.com/56482367/92969035-87bc9480-f452-11ea-9278-852cd924e9df.png">
+<img src="https://user-images.githubusercontent.com/56482367/92971565-116e6100-f457-11ea-85b9-0d0428d867c5.PNG">
 
 ## 🚀 Tecnologias:
 * HTML
